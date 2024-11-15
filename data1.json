@@ -1,0 +1,15 @@
+{
+    "name": "Mileyri Medina",
+    "age": 21,
+    "city": "Idaho",
+    "interests": [
+        "Traveling",
+        "Volleyball",
+        "Drawing",
+        "Longboarding",
+        "Art",
+        "Theology",
+        "Silly"
+    ],
+    "is_student": false
+}
